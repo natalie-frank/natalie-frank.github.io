@@ -14,7 +14,7 @@ description              : &description "Phd student at Courant Institute"
 url                      : https://natalie-frank.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "natalie-frank.github.io"
-teaser                   : "selfie_with_cactus.jpeg"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Natalie Frank"
-  avatar           : "profile.png"
+  avatar           : "selfie_with_cactus.jpeg"
   bio              : "I'm a Phd student at Courant Institute. I am interested in Monte Carlo Methods and Adversarial Learning."
   location         : New York, New York
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=dDfnYw4AAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F6-JIyi_09vLnegT_GL4bYx54IhxXPz8eTchQqorfvKwonT4n77KJJmdhTrVyYkdHEVTBFJDsOujuAaCldytbHBFr2dtfJQ9Znn8QaVBOU_tpgCRgo"
-  email            :
+  email            : "nf1066 at nyu dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/natalie-frank-938403b0/"
   orcid            : 
   pinterest        :
   soundcloud       :
