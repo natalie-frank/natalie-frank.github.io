@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 **On the Existence of the Adversarial Bayes Classifier**,  Authors: Pranjal Awasthi, Natalie Frank, Mehryar Mohri. <i>Submitted to NeurIps</i>.<br> 
-We study the existence of the adversarial Bayes classifier.
+We study the existence of minimizers to the adversarial classification loss.
 
 **Calibration and Consistency of Adversarial Surrogate Losses**,  Authors: Pranjal Awasthi, Natalie Frank, Anqi Mao, Mehryar Mohri, Yutao Zhong. <i>Submitted to NeurIps</i>.<br> 
 This paper studies statistical consistency and calibration in the adversarial setting. We show that no continuous surrogate loss is statistically consistent in the adversarial setting when learning over a well-motivated linear function class. Furthermore, supremum based convex losses are not $H$-calibrated for typical linear and neural net function classes. Lastly, we find distributional assumptions under which some surrogate losses are statistically consistent for linear function classes and one-layer neural networks. 
@@ -19,5 +19,5 @@ Consider the one-per-cite frog model on a $d$-ary tree with drift towards the ro
   
 # Expository Notes
   
-**On the Rademacher Complexity of Linear Hypothesis Sets**, Authors: Pranjal Awasthi, Natalie Frank, Mehryar Mohri. 2020.[link](https://arxiv.org/abs/2007.11045)<br>
+**On the Rademacher Complexity of Linear Hypothesis Sets**, Authors: Pranjal Awasthi, Natalie Frank, Mehryar Mohri. 2020. [link](https://arxiv.org/abs/2007.11045)<br>
 We give upper and lower bounds on the empirical Rademacher complexity of the linear hypothesis classes with weight factors bounded in $\ell_p$ norm. We show that our bounds improve upon existing bounds, which were known only for $1\leq p \leq 2$.
