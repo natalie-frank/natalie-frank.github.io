@@ -19,5 +19,6 @@ Victoria Chayes, Kevin Miller, **Rasika Bhalerao**, Jiajie Luo, Wei Zhu, Andrea 
 Consider the one-per-cite frog model on a $d$-ary tree with drift towards the root. We show that for any $d$, the frog model is recurrent with drift larger than or equal to $0.4155$. 
   
 <h1>Expository Notes<h1>
+  
 **On the Rademacher Complexity of Linear Hypothesis Sets**, Authors: Pranjal Awasthi, Natalie Frank, Mehryar Mohri. 2020.&#13;&#10;
-We give upper and lower bounds on the empirical Rademacher complexity of the linear hypothesis classes with weight factors bounded in $\ell_p$ norm. We show that our bounds improve upon existing bounds, which were known only for $1\leq p \geq 2$.
+We give upper and lower bounds on the empirical Rademacher complexity of the linear hypothesis classes with weight factors bounded in $\ell_p$ norm. We show that our bounds improve upon existing bounds, which were known only for $1\leq p \leq 2$.
