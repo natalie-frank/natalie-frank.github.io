@@ -14,4 +14,8 @@ Maxwell Aliapoulios, Cameron Ballard, **Rasika Bhalerao**, Tobias Lauinger, Damo
 **Rasika Bhalerao**, Maxwell Aliapoulios, Ilia Shumailov, Sadia Afroz and Damon McCoy, “[Mapping the Underground: Supervised Discovery of Cybercrime Supply Chains](http://damonmccoy.com/papers/ecrime2019.pdf),” 2019 APWG Symposium on Electronic Crime Research **(eCrime 2019)**, Pittsburgh, PA, USA, 2019, pp. 1-16, doi: 10.1109/eCrime47957.2019.9037582. **Honorable mention for best paper award**
 
 Victoria Chayes, Kevin Miller, **Rasika Bhalerao**, Jiajie Luo, Wei Zhu, Andrea L. Bertozzi, Wenzhi Liao, Stanley Osher, “[Pre-processing and classification of hyperspectral imagery via selective inpainting](https://www.math.ucla.edu/~bertozzi/papers/ICASSP2017-final.pdf),” 2017 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2017)**, New Orleans, LA, 2017, pp. 6195-6199, doi: 10.1109/ICASSP.2017.7953347.
-
+<h>
+**The Frog Model on Trees with Drift**  Authors: E. Beckman, N. Frank, Y. Jiang, M. Junge, S. Tang. <i>Electronic Communications in Probability</i>, 2019. [pdf] (https://projecteuclid.org/journals/electronic-communications-in-probability/volume-24/issue-none/The-frog-model-on-trees-with-drift/10.1214/19-ECP235.full)
+Consider the one-per-cite frog model on a $d$-ary tree with drift towards the root. We show that for any $d$, the frog model is recurrent with drift larger than or equal to $0.4155$. 
+  
+##Expository Notes
