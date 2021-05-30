@@ -5,6 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-"The Adversarial Bayes Classifier". TwoSigma Symposium. July 2021.
+"The Adversarial Bayes Classifier", TwoSigma Symposium. July 2021.
 
-ICML Virtual Poster Session. "Adversarial Learning Guarantees for Linear Hypotheses Sets and Neural Networks", 2020. [link]
+"Adversarial Learning Guarantees for Linear Hypotheses Sets and Neural Networks", ICML Virtual Poster Session. 2020. [link]
