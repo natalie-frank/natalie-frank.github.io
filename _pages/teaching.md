@@ -12,7 +12,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
-### TA&Grader for Foundations of Machine Learning course at NYU (CSCI-GA.2566)
+### TA/Grader for Foundations of Machine Learning course at NYU (CSCI-GA.2566)
 #### Fall 2020 (Sept 2020 - Dec 2020)
 #### [Course Website](https://cs.nyu.edu/~mohri/ml20/)
 ####  Graded and answered student questions for a graduate class of 50 students
