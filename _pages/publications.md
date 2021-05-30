@@ -15,7 +15,7 @@ Maxwell Aliapoulios, Cameron Ballard, **Rasika Bhalerao**, Tobias Lauinger, Damo
 
 Victoria Chayes, Kevin Miller, **Rasika Bhalerao**, Jiajie Luo, Wei Zhu, Andrea L. Bertozzi, Wenzhi Liao, Stanley Osher, “[Pre-processing and classification of hyperspectral imagery via selective inpainting](https://www.math.ucla.edu/~bertozzi/papers/ICASSP2017-final.pdf),” 2017 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2017)**, New Orleans, LA, 2017, pp. 6195-6199, doi: 10.1109/ICASSP.2017.7953347.
 
-**The Frog Model on Trees with Drift**  Authors: E. Beckman, N. Frank, Y. Jiang, M. Junge, S. Tang. <i>Electronic Communications in Probability</i>, 2019. "[pdf]"(https://projecteuclid.org/journals/electronic-communications-in-probability/volume-24/issue-none/The-frog-model-on-trees-with-drift/10.1214/19-ECP235.full)
+**The Frog Model on Trees with Drift**,  Authors: Erin Beckman, Natalie Frank, Yufeng Jiang, Matthew Junge, Si Tang. <i>Electronic Communications in Probability</i>, 2019. [pdf](https://projecteuclid.org/journals/electronic-communications-in-probability/volume-24/issue-none/The-frog-model-on-trees-with-drift/10.1214/19-ECP235.full)
 Consider the one-per-cite frog model on a $d$-ary tree with drift towards the root. We show that for any $d$, the frog model is recurrent with drift larger than or equal to $0.4155$. 
   
-##Expository Notes
+<h2>Expository Notes<h2>
