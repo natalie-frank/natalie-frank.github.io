@@ -14,8 +14,8 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 ### Instructor for Complex Analysis Writtens Workshop
 #### August 2021
-#### [handouts](natalie-frank.github.io/complex-workshop-august-2021)
-#### Designed and taught a workshop to help graduate students review for a written exam
+#### [handouts](complex-workshop-august-2021)
+[//]: # (#### Designed and taught a workshop to help graduate students review for a written exam)
 <br/>
 
 ### TA/Grader for Foundations of Machine Learning (CSCI-GA.2566)
@@ -28,7 +28,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 ### Instructor for Linear Algebra Writtens Workshop
 #### August 2020
-#### Designed and taught a workshop to help graduate students review for a written exam
+[//]: # (#### Designed and taught a workshop to help graduate students review for a written exam)
 <br/>
 
 
