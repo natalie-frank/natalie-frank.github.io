@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at Courant Institute. I am interested in Monte Carlo methods and adversarial learning.
+I'm a PhD student at Courant Institute studying Monte Carlo methods and adversarial learning.
