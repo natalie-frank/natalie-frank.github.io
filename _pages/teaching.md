@@ -12,6 +12,12 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
+### Instructor for Complex Analysis Writtens Workshop
+#### August 2021
+####[handouts] (natalie-frank.github.io/complex-workshop-august-2021)
+#### Designed and taught a workshop to help graduate students review for a written exam
+<br/>
+
 ### TA/Grader for Foundations of Machine Learning course at NYU (CSCI-GA.2566)
 #### Fall 2020 (Sept 2020 - Dec 2020)
 #### [Course Website](https://cs.nyu.edu/~mohri/ml20/)
