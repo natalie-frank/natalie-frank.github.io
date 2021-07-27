@@ -14,7 +14,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 ### Instructor for Complex Analysis Writtens Workshop
 #### August 2021
-####[handouts] (natalie-frank.github.io/complex-workshop-august-2021)
+#### [handouts](natalie-frank.github.io/complex-workshop-august-2021)
 #### Designed and taught a workshop to help graduate students review for a written exam
 <br/>
 
