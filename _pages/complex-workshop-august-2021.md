@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Complex Writtens Workshop August 20201"
+title: "Complex Writtens Workshop August 2021"
 permalink: complexaug21/
 author_profile: false
 
@@ -13,5 +13,5 @@ h2, h3, h4, h5, h6 {margin: 0;}
 {% include base_path %}
 
 
-##Resources
+### Resources
 Contour Integration Cheat Sheet
