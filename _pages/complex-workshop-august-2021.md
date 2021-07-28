@@ -14,4 +14,4 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 
 ### Resources
-Contour Integration Cheat Sheet
+Contour Integration: [Exercises] (https://github.com/natalie-frank/natalie-frank.github.io/blob/6f5ca65441260cd9c1b7ed5084e54f469b97ec44/files/Contour_Integration_Exercises.pdf)
