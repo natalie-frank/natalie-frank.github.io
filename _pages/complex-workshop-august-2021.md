@@ -14,4 +14,4 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 
 ### Resources
-Contour Integration: [Contour Integration Cheatsheet](https://raw.githubusercontent.com/natalie-frank/natalie-frank.github.io/801dff2e1ffbc18daf151a76491995b217dafc14/files/Contour_Integration_Cheatsheet.pdf), [Exercises](https://raw.githubusercontent.com/natalie-frank/natalie-frank.github.io/6f5ca65441260cd9c1b7ed5084e54f469b97ec44/files/Contour_Integration_Exercises.pdf)
+Contour Integration: [Contour Integration Cheatsheet](https://raw.githubusercontent.com/natalie-frank/natalie-frank.github.io/801dff2e1ffbc18daf151a76491995b217dafc14/files/Contour_Integration_Cheatsheet.pdf), [Exercises](https://natalie-frank.github.io/master/files/Contour_Integration_Exercises.pdf)
