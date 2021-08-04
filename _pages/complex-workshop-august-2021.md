@@ -15,3 +15,5 @@ h2, h3, h4, h5, h6 {margin: 0;}
 Wednesdays at 8 pm EST
 ### Resources
 Contour Integration: [Contour Integration Cheatsheet](https://raw.githubusercontent.com/natalie-frank/natalie-frank.github.io/master/files/Contour_Integration_Cheatsheet.pdf), [Exercises](https://raw.githubusercontent.com/natalie-frank/natalie-frank.github.io/master/files/Contour_Integration_Exercises.pdf)
+
+Conformal Mapping: [Conformal Mapping Cheatsheet](https://raw.githubusercontent.com/natalie-frank/natalie-frank.github.io/master/files/Conformal_mapping_Cheatsheet.pdf), [Exercises](https://raw.githubusercontent.com/natalie-frank/natalie-frank.github.io/master/files/conformal_mapping_exercises.pdf)
