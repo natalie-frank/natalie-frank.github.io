@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+*On the Existence of the Adversarial Bayes Classifier*, NeurIPS, Spotlight Presentation. December 2021.
+
 *The Adversarial Bayes Classifier*, TwoSigma Symposium. July 2021.
 
 *Adversarial Learning Guarantees for Linear Hypotheses Sets and Neural Networks*, ICML Virtual Poster Session. July 2020. [link]
