@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
-**On the Existence of the Adversarial Bayes Classifier**,  Authors: Pranjal Awasthi, Natalie Frank, Mehryar Mohri. <i>Submitted to NeurIps</i>.<br> 
-We study the existence of minimizers to the adversarial classification loss.
+**On the Existence of the Adversarial Bayes Classifier**,  Authors: Pranjal Awasthi, Natalie Frank, Mehryar Mohri. <i>NeurIPS</i>, **Spotlight Presentation**. [NeurIPS version](https://papers.nips.cc/paper/2021/hash/172ef5a94b4dd0aa120c6878fc29f70c-Abstract.html)[Extended Version](https://arxiv.org/pdf/2112.01694.pdf)<br>
+We prove that there exist minimizers to the adversarial risk which we call the *adversarial Bayes classifier* with nice reguarity properties. The results of the original paper did not apply to non-strictly convex norms. The extended version of the paper extends these results to all possible norms.
 
-**Calibration and Consistency of Adversarial Surrogate Losses**,  Authors: Pranjal Awasthi, Natalie Frank, Anqi Mao, Mehryar Mohri, Yutao Zhong. <i>Submitted to NeurIps</i>.<br> 
-This paper studies statistical consistency and calibration in the adversarial setting. We show that no continuous surrogate loss is statistically consistent in the adversarial setting when learning over a well-motivated linear function class. Furthermore, supremum based convex losses are not $H$-calibrated for typical linear and neural net function classes. Lastly, we find distributional assumptions under which some surrogate losses are statistically consistent for linear function classes and one-layer neural networks. 
+**Calibration and Consistency of Adversarial Surrogate Losses**,  Authors: Pranjal Awasthi, Natalie Frank, Anqi Mao, Mehryar Mohri, Yutao Zhong. <i>Submitted to NeurIPS</i> **Spotlight Presentation**. [link](https://arxiv.org/abs/2104.09658)<br>
+This paper studies statistical consistency and calibration in the adversarial setting. One major highlight is that we show no continuous surrogate loss is statistically consistent in the adversarial setting when learning over a well-motivated linear function class.
 
 **Adversarial Learning Guarantees for Linear Hypotheses Sets and Neural Networks**,  Authors: Pranjal Awasthi, Natalie Frank, Mehryar Mohri. <i>ICML</i>, 2020. [link](http://proceedings.mlr.press/v119/awasthi20a.html)<br>
 Consider perturbations measured in $\ell_r$ norm. We give bounds on the adversarial Rademacher complexity of linear classes, a single ReLU unit, feed-forward neural networks.
