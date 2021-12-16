@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
-**On the Existence of the Adversarial Bayes Classifier**,  Authors: Pranjal Awasthi, Natalie Frank, Mehryar Mohri. <i>NeurIPS</i>, **Spotlight Presentation**. [NeurIPS version](https://papers.nips.cc/paper/2021/hash/172ef5a94b4dd0aa120c6878fc29f70c-Abstract.html), [Extended Version](https://arxiv.org/pdf/2112.01694.pdf)<br>
+**On the Existence of the Adversarial Bayes Classifier**,  Authors: Pranjal Awasthi, Natalie Frank, Mehryar Mohri. <i>NeurIPS, 2021</i>, **Spotlight Presentation**. [NeurIPS version](https://papers.nips.cc/paper/2021/hash/172ef5a94b4dd0aa120c6878fc29f70c-Abstract.html), [Extended Version](https://arxiv.org/pdf/2112.01694.pdf)<br>
 We prove that there exist minimizers to the adversarial risk which we call the *adversarial Bayes classifier* with nice reguarity properties. The results of the original paper did not apply to non-strictly convex norms. The extended version of the paper extends these results to all possible norms.
 
-**Calibration and Consistency of Adversarial Surrogate Losses**,  Authors: Pranjal Awasthi, Natalie Frank, Anqi Mao, Mehryar Mohri, Yutao Zhong. <i>Submitted to NeurIPS</i>, **Spotlight Presentation**. [link](https://arxiv.org/abs/2104.09658)<br>
+**Calibration and Consistency of Adversarial Surrogate Losses**,  Authors: Pranjal Awasthi, Natalie Frank, Anqi Mao, Mehryar Mohri, Yutao Zhong. <i>NeurIPS, 2021</i>, **Spotlight Presentation**. [link](https://arxiv.org/abs/2104.09658)<br>
 This paper studies statistical consistency and calibration in the adversarial setting. One major highlight is that we show no continuous surrogate loss is statistically consistent in the adversarial setting when learning over a well-motivated linear function class.
 
 **Adversarial Learning Guarantees for Linear Hypotheses Sets and Neural Networks**,  Authors: Pranjal Awasthi, Natalie Frank, Mehryar Mohri. <i>ICML</i>, 2020. [link](http://proceedings.mlr.press/v119/awasthi20a.html)<br>
