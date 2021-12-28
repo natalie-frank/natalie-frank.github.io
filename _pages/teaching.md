@@ -11,6 +11,12 @@ h2, h3, h4, h5, h6 {margin: 0;}
 </style>
 
 {% include base_path %}
+### Instructor for Complex Analysis Writtens Workshop
+#### January 2022
+#### [handouts](https://natalie-frank.github.io/complexjan22/)
+[//]: # (#### Designed and taught a workshop to help graduate students review for a written exam)
+<br/>
+
 
 ### Instructor for Complex Analysis Writtens Workshop
 #### August 2021
