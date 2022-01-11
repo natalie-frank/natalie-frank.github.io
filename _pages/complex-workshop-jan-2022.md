@@ -18,5 +18,5 @@ Contour Integration: [Contour Integration Cheatsheet](https://raw.githubusercont
 
 Conformal Mapping: [Conformal Mapping Cheatsheet](https://raw.githubusercontent.com/natalie-frank/natalie-frank.github.io/master/files/comple-workshop-august-2021/Conformal_mapping_Cheatsheet.pdf), [Exercises](https://raw.githubusercontent.com/natalie-frank/natalie-frank.github.io/master/files/comple-workshop-august-2021/conformal_mapping_exercises.pdf)
 
-Identifying Analytic functions: [Notes](https://raw.githubusercontent.com/natalie-frank/natalie-frank.github.io/master/files/complex-workshop-jan-2022/identifying_analytic_functions_exercises.pdf) [Exercises](https://raw.githubusercontent.com/natalie-frank/natalie-frank.github.io/master/files/complex-workshop-jan-2022/identifying_analytic_functions_exercises.pdf)
+Identifying Analytic functions: [Notes](https://raw.githubusercontent.com/natalie-frank/natalie-frank.github.io/master/files/complex-workshop-jan-2022/identifying_analytic_functions_exercises.pdf), [Exercises](https://raw.githubusercontent.com/natalie-frank/natalie-frank.github.io/master/files/complex-workshop-jan-2022/identifying_analytic_functions_exercises.pdf)
 
