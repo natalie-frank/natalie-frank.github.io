@@ -13,7 +13,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 {% include base_path %}
 ### Linear Algebra TA
 #### Spring 2022
-#### [Course Website] (https://brightspace.nyu.edu/d2l/home/163261)
+#### [Course Website](https://brightspace.nyu.edu/d2l/home/163261)
 
 ### Instructor for Complex Analysis Writtens Workshop
 #### January 2022
