@@ -14,6 +14,8 @@ h2, h3, h4, h5, h6 {margin: 0;}
 ### TA for Linear Algebra (MATH-UA.0140)
 #### Spring 2022
 #### [Course Website](https://brightspace.nyu.edu/d2l/home/163261)
+[//]: taught 1 recitation section of 30 students in linear algebra. Responsible for finding material to teach during recitation, answering student questions, and grading
+<br/>
 
 ### Instructor for Complex Analysis Writtens Workshop
 #### January 2022
