@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
+
+**Robust Explanations for Deep Neural Networks via Pseudo Neural Tangent Kernel Surrogate Models** Authors: Andrew Engel, Zhichao Wang, Natalie S. Frank, Ioana Dumitriu, Sutanay Choudhury, Anand Sarwate, Tony Chiang. <i> Submitted to Neurips </i>, 2023. [link] (https://arxiv.org/abs/2305.14585) <br>
+This paper compares neural nets and GLMs trained with a pNTK, a normalized NTK summed across classes. Our experiments show that such a GLM is a good surrogate model for the neural net. We compute data attributions for these surrogate models under a data poisoning attack, and show that these attributions are more accurate than several alternatives. 
+
+**The Adversarial Consistency of Surrogate Risks for Binary Classification**, Authors: Natalie S. Frank, Jonathan Niles-Weed. <i>Submitted to Neurips</i>, 2023. [link](https://arxiv.org/abs/2305.09956)<br>
+This paper studies statistical consistency and calibration in the adversarial setting. We show that the supremum-based surrogate $\sup_{\|\mathbf x'-\mathbf x\|\leq \epsilon} \phi(yf(\mathbf x'))$ is consistent for all data distributions iff the surrogate $\phi$ satisfies $\inf_\alpha \phi(\alpha)+\phi(-\alpha)<2\phi(0)$.
+
+**Existence and Minimax Theorems for Adversarial Surrogate Risks in Binary Classification**, Author: Natalie S. Frank <i>Submitted to JMLR</i>, 2023. [link](https://arxiv.org/abs/2206.09098)<br>
+We prove and existence, regularity, and minimax theorems for adversarial surrogate risks in the binary classification scenario. Our results extend previously known existence and minimax theorems for the adversarial classification risk to surrogate risks.
+
 **On the Existence of the Adversarial Bayes Classifier**,  Authors: Pranjal Awasthi, Natalie Frank, Mehryar Mohri. <i>NeurIPS</i>, 2021, **Spotlight Presentation**. [Extended Version](https://arxiv.org/pdf/2112.01694.pdf)<br>
 We prove that there exist minimizers to the adversarial risk which we call the *adversarial Bayes classifier* with nice reguarity properties. The results of the original paper did not apply to non-strictly convex norms. The extended version of the paper extends these results to all possible norms.
 
