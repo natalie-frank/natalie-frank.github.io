@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Natalie Frank"
   avatar           : "selfie_with_cactus.jpeg"
-  bio              : "I'm a PhD student at Courant Institute. I am interested in Monte Carlo methods and adversarial learning."
+  bio              : "I'm a PhD student at Courant Institute studying adversarial learning"
   location         : New York, New York
   employer         :
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "natalie_s_frank"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
