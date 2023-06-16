@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-**Robust Explanations for Deep Neural Networks via Pseudo Neural Tangent Kernel Surrogate Models** Authors: Andrew Engel, Zhichao Wang, Natalie S. Frank, Ioana Dumitriu, Sutanay Choudhury, Anand Sarwate, Tony Chiang. <i> Submitted to Neurips </i>, 2023. [link] (https://arxiv.org/abs/2305.14585) <br>
+**Robust Explanations for Deep Neural Networks via Pseudo Neural Tangent Kernel Surrogate Models** Authors: Andrew Engel, Zhichao Wang, Natalie S. Frank, Ioana Dumitriu, Sutanay Choudhury, Anand Sarwate, Tony Chiang. <i> Submitted to Neurips </i>, 2023. [link](https://arxiv.org/abs/2305.14585) <br>
 This paper compares neural nets and GLMs trained with a pNTK, a normalized NTK summed across classes. Our experiments show that such a GLM is a good surrogate model for the neural net. We compute data attributions for these surrogate models under a data poisoning attack, and show that these attributions are more accurate than several alternatives. 
 
 **The Adversarial Consistency of Surrogate Risks for Binary Classification**, Authors: Natalie S. Frank, Jonathan Niles-Weed. <i>Submitted to Neurips</i>, 2023. [link](https://arxiv.org/abs/2305.09956)<br>
