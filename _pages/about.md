@@ -13,4 +13,4 @@ redirect_from:
 </head>
 
 
-I'm a PhD student at Courant Institute studying Monte Carlo methods and adversarial learning.
+I'm a PhD student at Courant Institute working with Jonathan Niles-Weed. I am broadly interested in the mathematics of data science. Currently, I am researching adversarial robustness, with a focus on connections to optimal transport.  
