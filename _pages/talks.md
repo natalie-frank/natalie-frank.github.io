@@ -4,7 +4,7 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
-*The Adversarial Consistency of Surrogate Risks for Binary Classification*, ICIAM, Adversarial Robustness Minisymposium August 2023. 
+*The Adversarial Consistency of Surrogate Risks for Binary Classification*, ICIAM, Adversarial Robustness Minisymposium. August 2023. 
 
 *On the Existence of the Adversarial Bayes Classifier*, NeurIPS, Spotlight Presentation. December 2021.
 
