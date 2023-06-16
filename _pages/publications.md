@@ -30,4 +30,4 @@ Consider the one-per-cite frog model on a $d$-ary tree with drift towards the ro
 # Expository Notes
   
 **On the Rademacher Complexity of Linear Hypothesis Sets**, Authors: Pranjal Awasthi, Natalie Frank, Mehryar Mohri. 2020. [link](https://arxiv.org/abs/2007.11045)<br>
-We give upper and lower bounds on the empirical Rademacher complexity of the linear hypothesis classes with weight factors bounded in $\ell_p$ norm. These were the best known bounds at time of writing. Previously, bounds were known only for $1\leq p \leq 2$.
+We give upper and lower bounds on the empirical Rademacher complexity of the linear hypothesis classes with weight factors bounded in $\ell_p$ norm for $p \in [1,\infty]$. These were the best known bounds at time of writing. Previously, bounds were known only for $p \in [1,2]$.
