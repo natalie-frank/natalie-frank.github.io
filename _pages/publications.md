@@ -15,7 +15,7 @@ This paper studies statistical consistency and calibration in the adversarial se
 **Existence and Minimax Theorems for Adversarial Surrogate Risks in Binary Classification**, Author: Natalie S. Frank <i>Submitted to JMLR</i>, 2023. [link](https://arxiv.org/abs/2206.09098)<br>
 We prove and existence, regularity, and minimax theorems for adversarial surrogate risks in the binary classification scenario. Our results extend previously known existence and minimax theorems for the adversarial classification risk to surrogate risks.
 
-**On the Existence of the Adversarial Bayes Classifier**,  Authors: Pranjal Awasthi, Natalie Frank, Mehryar Mohri. <i>NeurIPS</i>, 2021, **Spotlight Presentation**. [Extended Version](https://arxiv.org/pdf/2112.01694.pdf)<br>
+**On the Existence of the Adversarial Bayes Classifier**,  Authors: Pranjal Awasthi, Natalie Frank, Mehryar Mohri. <i>NeurIPS</i>, 2021, **Spotlight Presentation**. [link](https://arxiv.org/pdf/2112.01694.pdf)<br>
 We prove that there exist minimizers to the adversarial risk which we call the *adversarial Bayes classifier* with nice reguarity properties. The results of the original paper did not apply to non-strictly convex norms. The extended version of the paper extends these results to all possible norms.
 
 **Calibration and Consistency of Adversarial Surrogate Losses**,  Authors: Pranjal Awasthi, Natalie Frank, Anqi Mao, Mehryar Mohri, Yutao Zhong. <i>NeurIPS</i>, 2021, **Spotlight Presentation**. [link](https://arxiv.org/abs/2104.09658)<br>
