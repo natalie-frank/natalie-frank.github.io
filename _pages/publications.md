@@ -6,13 +6,13 @@ author_profile: true
 ---
 {% include base_path %}
 
-**Robust Explanations for Deep Neural Networks via Pseudo Neural Tangent Kernel Surrogate Models** Authors: Andrew Engel, Zhichao Wang, Natalie S. Frank, Ioana Dumitriu, Sutanay Choudhury, Anand Sarwate, Tony Chiang. <i> Submitted to Neurips </i>, 2023. [link](https://arxiv.org/abs/2305.14585) <br>
+**Robust Explanations for Deep Neural Networks via Pseudo Neural Tangent Kernel Surrogate Models** Authors: Andrew Engel, Zhichao Wang, Natalie S. Frank, Ioana Dumitriu, Sutanay Choudhury, Anand Sarwate, Tony Chiang. <i> ICLR </i>, 2024. [link](https://arxiv.org/abs/2305.14585) <br>
 This paper compares neural nets and GLMs trained with a pNTK, a normalized NTK summed across classes. Our experiments show that such a GLM is a good surrogate model for the neural net. We compute data attributions for these surrogate models under a data poisoning attack, and show that these attributions are more accurate than several alternatives. 
 
-**The Adversarial Consistency of Surrogate Risks for Binary Classification**, Authors: Natalie S. Frank, Jonathan Niles-Weed. <i>Submitted to Neurips</i>, 2023. [link](https://arxiv.org/abs/2305.09956)<br>
+**The Adversarial Consistency of Surrogate Risks for Binary Classification**, Authors: Natalie S. Frank, Jonathan Niles-Weed. <i>NeurIps</i>, 2024. [link](https://arxiv.org/abs/2305.09956)<br>
 This paper studies statistical consistency and calibration in the adversarial setting. We show that the supremum-based surrogate $\sup_{\|\mathbf x'-\mathbf x\|\leq \epsilon} \phi(yf(\mathbf x'))$ is consistent for all data distributions iff the surrogate $\phi$ satisfies $\inf_\alpha \phi(\alpha)+\phi(-\alpha)<2\phi(0)$.
 
-**Existence and Minimax Theorems for Adversarial Surrogate Risks in Binary Classification**, Author: Natalie S. Frank <i>Submitted to JMLR</i>, 2023. [link](https://arxiv.org/abs/2206.09098)<br>
+**Existence and Minimax Theorems for Adversarial Surrogate Risks in Binary Classification**, Author: Natalie S. Frank <i>JMLR</i>, 2024. [link](https://arxiv.org/abs/2206.09098)<br>
 We prove and existence, regularity, and minimax theorems for adversarial surrogate risks in the binary classification scenario. Our results extend previously known existence and minimax theorems for the adversarial classification risk to surrogate risks.
 
 **On the Existence of the Adversarial Bayes Classifier**,  Authors: Pranjal Awasthi, Natalie Frank, Mehryar Mohri. <i>NeurIPS</i>, 2021, **Spotlight Presentation**. [link](https://arxiv.org/pdf/2112.01694.pdf)<br>
@@ -32,4 +32,4 @@ Consider the one-per-cite frog model on a $d$-ary tree with drift towards the ro
 **Expository Note: On the Rademacher Complexity of Linear Hypothesis Sets**, Authors: Pranjal Awasthi, Natalie Frank, Mehryar Mohri. 2020. [link](https://arxiv.org/abs/2007.11045)<br>
 We give upper and lower bounds on the empirical Rademacher complexity of the linear hypothesis classes with weight factors bounded in $\ell_p$ norm for $p \in [1,\infty]$. These were the best known bounds at time of writing. Previously, bounds were known only for $p \in [1,2]$.
 
-[**Thesis: Understanding Adversarial Risks**](https://raw.githubusercontent.com/natalie-frank/natalie-frank.github.io/master/files/misc/Thesis.pdf): The theory of risks in the non-adversarial setting is well understood, and includes results such as formulas a characterization of statistical consistency and formulas for minimizers. Some of these results are extended to the adversarial setting.  
+**Thesis:** [**Understanding Adversarial Risks**](https://raw.githubusercontent.com/natalie-frank/natalie-frank.github.io/master/files/misc/Thesis.pdf): The theory of risks in the non-adversarial setting is well understood, and includes results such as formulas a characterization of statistical consistency and formulas for minimizers. Some of these results are extended to the adversarial setting.  
