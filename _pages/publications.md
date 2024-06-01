@@ -27,7 +27,9 @@ Consider perturbations measured in $\ell_r$ norm. We give bounds on the adversar
 **The Frog Model on Trees with Drift**,  Authors: Erin Beckman, Natalie Frank, Yufeng Jiang, Matthew Junge, Si Tang. <i>Electronic Communications in Probability</i>, 2019. [link](https://projecteuclid.org/journals/electronic-communications-in-probability/volume-24/issue-none/The-frog-model-on-trees-with-drift/10.1214/19-ECP235.full)<br>
 Consider the one-per-cite frog model on a $d$-ary tree with drift towards the root. We show that for any $d$, the frog model is recurrent with drift larger than or equal to $0.4155$. 
   
-# Expository Notes
+# Other
   
-**On the Rademacher Complexity of Linear Hypothesis Sets**, Authors: Pranjal Awasthi, Natalie Frank, Mehryar Mohri. 2020. [link](https://arxiv.org/abs/2007.11045)<br>
+**Expository Note: On the Rademacher Complexity of Linear Hypothesis Sets**, Authors: Pranjal Awasthi, Natalie Frank, Mehryar Mohri. 2020. [link](https://arxiv.org/abs/2007.11045)<br>
 We give upper and lower bounds on the empirical Rademacher complexity of the linear hypothesis classes with weight factors bounded in $\ell_p$ norm for $p \in [1,\infty]$. These were the best known bounds at time of writing. Previously, bounds were known only for $p \in [1,2]$.
+
+**Thesis: Understanding Adversarial Risks**[link](https://raw.githubusercontent.com/natalie-frank/natalie-frank.github.io/master/files/misc/Thesis.pdf): The theory of risks in the non-adversarial setting is well understood, and includes results such as formulas a characterization of statistical consistency and formulas for minimizers. Some of these results are extended to the adversarial setting.  
