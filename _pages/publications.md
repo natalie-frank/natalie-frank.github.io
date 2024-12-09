@@ -6,11 +6,20 @@ author_profile: true
 ---
 {% include base_path %}
 
+**The Price of Implicit Bias in Adversarially Robust Generalization** Authors: Nikolaos Tsilivis, Natalie Frank, Nathan Srebro, Julia Kempe. <i> NeurIps <i/>, 2024. [link] (https://arxiv.org/abs/2406.04981) <br>
+ In classification settings under adversarial perturbations with linear models, we study what type of regularization should ideally be applied for a given perturbation set to improve (robust) generalization. We then show that the implicit bias of optimization in robust ERM can significantly affect the robustness of the model and identify two ways this can happen; either through the optimization algorithm or the architecture.
+
+
+**Adversarial Consistency and the Uniqueness of the Adversarial Bayes Classifier** Authors: Natalie Frank <i> In revision at EJAM </i>, 2024. [link] (https://arxiv.org/abs/2404.17358) <br>
+This paper connects the statistical consistency of risks for adversarial learning with the uniqueness of the adversarial Bayes classifier. 
+
+**A Notion of Uniqueness for the Adversarial Bayes Classifier** Authors: Natalie Frank <i> Submitted to SIMODS </i>, 2024. [link] (https://arxiv.org/abs/2404.16956)<br> We propose a new notion of uniqueness for the adversarial Bayes classifier that defines an equivalence class on sets in the setting of binary classification. Analyzing this concept produces a simple procedure for computing all adversarial Bayes classifiers for a well-motivated family of one dimensional data distributions.  
+
 **Robust Explanations for Deep Neural Networks via Pseudo Neural Tangent Kernel Surrogate Models** Authors: Andrew Engel, Zhichao Wang, Natalie S. Frank, Ioana Dumitriu, Sutanay Choudhury, Anand Sarwate, Tony Chiang. <i> ICLR </i>, 2024. [link](https://arxiv.org/abs/2305.14585) <br>
 This paper compares neural nets and GLMs trained with a pNTK, a normalized NTK summed across classes. Our experiments show that such a GLM is a good surrogate model for the neural net. We compute data attributions for these surrogate models under a data poisoning attack, and show that these attributions are more accurate than several alternatives. 
 
 **The Adversarial Consistency of Surrogate Risks for Binary Classification**, Authors: Natalie S. Frank, Jonathan Niles-Weed. <i>NeurIps</i>, 2024. [link](https://arxiv.org/abs/2305.09956)<br>
-This paper studies statistical consistency and calibration in the adversarial setting. We show that the supremum-based surrogate $\sup_{\|\mathbf x'-\mathbf x\|\leq \epsilon} \phi(yf(\mathbf x'))$ is consistent for all data distributions iff the surrogate $\phi$ satisfies $\inf_\alpha \phi(\alpha)+\phi(-\alpha)<2\phi(0)$.
+This paper studies statistical consistency in the adversarial setting. We show that the supremum-based surrogate $\sup_{\|\mathbf x'-\mathbf x\|\leq \epsilon} \phi(yf(\mathbf x'))$ is consistent for all data distributions iff the surrogate $\phi$ satisfies $\inf_\alpha \phi(\alpha)+\phi(-\alpha)<2\phi(0)$.
 
 **Existence and Minimax Theorems for Adversarial Surrogate Risks in Binary Classification**, Author: Natalie S. Frank <i>JMLR</i>, 2024. [link](https://arxiv.org/abs/2206.09098)<br>
 We prove and existence, regularity, and minimax theorems for adversarial surrogate risks in the binary classification scenario. Our results extend previously known existence and minimax theorems for the adversarial classification risk to surrogate risks.
