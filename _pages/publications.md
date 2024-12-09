@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 **The Price of Implicit Bias in Adversarially Robust Generalization** Authors: Nikolaos Tsilivis, Natalie Frank, Nathan Srebro, Julia Kempe. <i> NeurIps <i/>, 2024. [link] (https://arxiv.org/abs/2406.04981) <br>
- In classification settings under adversarial perturbations with linear models, we study what type of regularization should ideally be applied for a given perturbation set to improve (robust) generalization. We then show that the implicit bias of optimization in robust ERM can significantly affect the robustness of the model and identify two ways this can happen; either through the optimization algorithm or the architecture.
+In the setting of adversarial classification and linear models, we study the connection between adversarial generalization, the optimization algorithm, and model architecture.
 
 
 **Adversarial Consistency and the Uniqueness of the Adversarial Bayes Classifier** Authors: Natalie Frank <i> In revision at EJAM </i>, 2024. [link] (https://arxiv.org/abs/2404.17358) <br>
