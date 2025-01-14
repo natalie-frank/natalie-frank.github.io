@@ -11,6 +11,10 @@ h2, h3, h4, h5, h6 {margin: 0;}
 </style>
 
 {% include base_path %}
+### Instructor for Computational Methods in Data Analysis (AMATH 482) at UW
+#### Winter 2025
+<br/>
+
 ### Instructor for Applied and Numerical Linear Algebra (AMATH 352) at UW 
 #### Autumn 2024
 <br/>
