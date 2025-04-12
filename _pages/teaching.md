@@ -28,20 +28,20 @@ h2, h3, h4, h5, h6 {margin: 0;}
 #### [Course Website](https://brightspace.nyu.edu/d2l/home/163261)
 [//]: taught 1 recitation section of 30 students in linear algebra. Responsible for finding material to teach during recitation, answering student questions, and grading
 <br/>
-<!--
-### Instructor for Complex Analysis Writtens Workshop at NYU
-#### January 2022
-#### [handouts](https://natalie-frank.github.io/complexjan22/)
-[//]: # (#### Designed and taught a workshop to help graduate students review for a written exam)
-<br/>
+
+[//]: ### Instructor for Complex Analysis Writtens Workshop at NYU
+[//]: #### January 2022
+[//]: #### [handouts](https://natalie-frank.github.io/complexjan22/)
+[//]: [//]: # (#### Designed and taught a workshop to help graduate students review for a written exam)
+[//]: <br/>
 
 
-### Instructor for Complex Analysis Writtens Workshop at NYU
-#### August 2021
-#### [handouts](https://natalie-frank.github.io/complexaug21/)
-[//]: # (#### Designed and taught a workshop to help graduate students review for a written exam)
-<br/>
--->
+[//]: ### Instructor for Complex Analysis Writtens Workshop at NYU
+[//]: #### August 2021
+[//]: #### [handouts](https://natalie-frank.github.io/complexaug21/)
+[//]: [//]: # (#### Designed and taught a workshop to help graduate students review for a written exam)
+[//]: <br/>
+
 ### TA/Grader for Foundations of Machine Learning (CSCI-GA.2566) at NYU
 #### Fall 2020 (Sept 2020 - Dec 2020)
 #### [Course Website](https://cs.nyu.edu/~mohri/ml20/)
