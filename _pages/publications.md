@@ -10,10 +10,10 @@ author_profile: true
 In the setting of adversarial classification and linear models, we study the connection between adversarial generalization, the optimization algorithm, and model architecture.
 
 
-**Adversarial Consistency and the Uniqueness of the Adversarial Bayes Classifier** Authors: Natalie Frank <i> In revision at EJAM </i>, 2024. [link] (https://arxiv.org/abs/2404.17358) <br>
+**Adversarial Consistency and the Uniqueness of the Adversarial Bayes Classifier** Authors: Natalie Frank <i> European Journal of Applied Mathematics </i>, 2024. [link] (https://doi.org/10.1017/S0956792525000038 ) <br>
 This paper connects the statistical consistency of risks for adversarial learning with the uniqueness of the adversarial Bayes classifier. 
 
-**A Notion of Uniqueness for the Adversarial Bayes Classifier** Authors: Natalie Frank <i> Submitted to SIMODS </i>, 2024. [link] (https://arxiv.org/abs/2404.16956)<br> We propose a new notion of uniqueness for the adversarial Bayes classifier that defines an equivalence class on sets in the setting of binary classification. Analyzing this concept produces a simple procedure for computing all adversarial Bayes classifiers for a well-motivated family of one dimensional data distributions.  
+**A Notion of Uniqueness for the Adversarial Bayes Classifier** Authors: Natalie Frank <i> In revision at SIMODS </i>, 2024. [link] (https://arxiv.org/abs/2404.16956)<br> We propose a new notion of uniqueness for the adversarial Bayes classifier that defines an equivalence class on sets in the setting of binary classification. Analyzing this concept produces a simple procedure for computing all adversarial Bayes classifiers for a well-motivated family of one dimensional data distributions.  
 
 **Robust Explanations for Deep Neural Networks via Pseudo Neural Tangent Kernel Surrogate Models** Authors: Andrew Engel, Zhichao Wang, Natalie S. Frank, Ioana Dumitriu, Sutanay Choudhury, Anand Sarwate, Tony Chiang. <i> ICLR </i>, 2024. [link](https://arxiv.org/abs/2305.14585) <br>
 This paper compares neural nets and GLMs trained with a pNTK, a normalized NTK summed across classes. Our experiments show that such a GLM is a good surrogate model for the neural net. We compute data attributions for these surrogate models under a data poisoning attack, and show that these attributions are more accurate than several alternatives. 
