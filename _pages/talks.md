@@ -4,6 +4,10 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+*Adversarial Training for SVMs as a mini-max Algorithm*, Mathematical Analysis of Adversarial Learning, August 2025.
+
+*Understanding Adversarial Risks for Binary Classificaiton*, IFDS seminar, University of Washington. Feburary 2025.
+
 *Duality and Consistency of Surrogate Risks for Adversarial Binary Classification*, ICIAM, Adversarial Robustness Minisymposium. August 2023. 
 
 *On the Existence of the Adversarial Bayes Classifier*, NeurIPS, Spotlight Presentation. December 2021.
