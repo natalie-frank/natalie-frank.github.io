@@ -12,5 +12,4 @@ redirect_from:
    <meta name="keywords" content="Natalie Frank Applied Mathematics Courant">
 </head>
 
-
-I'm a Pearson fellow and IFDS Fellow at the University of Washington. I am broadly interested in the mathematics of data science. Currently, I am researching adversarial robustness, with a focus on connections to optimal transport. Previously, I was a PhD student at Courant Institute working with Jonathan Niles-Weed. 
+From Sept. 2024 to June 2026, I was a Pearson fellow and IFDS Fellow at the University of Washington advised by Bamdad Hosseini and Maryam Fazel. Previously, I was a PhD student at Courant Institute working with Jonathan Niles-Weed. 
